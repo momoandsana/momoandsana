@@ -2,30 +2,36 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteikim98%2Fhit-counter&count_bg=%23971F85&title_bg=%23C672FF&icon=leaflet.svg&icon_color=%2368DE2A&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmomoandsana%2Fhit-counter&count_bg=%23FFC000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### FrontEnd Devloper , also interested in UI/UX Design!!
+### I'm a backend engineer & robotics software engineer!!
 
 안녕하세요 김호석입니다
 
 ### SKILLS
-**Languages and Frameworks**
+**Languages and Frameworks**<br>
+![Static Badge](https://img.shields.io/badge/java-%23000000?style=for-the-badge&logo=openjdk)
+![Static Badge](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=fff)<br>![Static Badge](https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
 
-
-
-
+![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 **Interests**
 
 
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=fff)<br>![Static Badge](https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
+
 
 **Infra/Tools**
+![Static Badge](https://img.shields.io/badge/rds-%23527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=%232496ED&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github%20actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=fff)![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/WebStorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=fff)![Static Badge](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=fff)![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=notion&logoColor=fff)![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=fff)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momoandsana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![momoandsana's GitHub stats](https://github-readme-stats.vercel.app/api?username=momoandsana&show_icons=true&theme=tokyonight)
