@@ -18,7 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-**Interests**
+**Interests**<br>
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
